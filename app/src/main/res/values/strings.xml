@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Quiz App</string>
+    <string name="quiz_intor">When I hear that pop quiz, that\'s the way\n I was raised and that's the way it is for.</string>
+    <string name="quiz_headline">Welcome To Daily Quiz</string>
+    <string name="btn_getStarted">Let\'s Go!!</string>
+    <string name="login_now">Login Now</string>
+    <string name="login_massage">Please login to continue... </string>
+    <string name="email_hint">email@example.com </string>
+    <string name="password_hint">Password </string>
+    <string name="login">Log In </string>
+    <string name="login_msg">Don\'t have an account? <b>Log In</b>  </string>
+
+    <string name="sing_up">Sign Up </string>
+    <string name="sing_up_headline">Stay Connected </string>
+    <string name="sing_up_title_hint">Enter your email and password\n to get access your account </string>
+    <string name="sing_up_confirm_pass">Confirm Password </string>
+    <string name="signup_msg">Don\'t have an account? <b>Sign Up</b>  </string>
+
+
+
 </resources>
