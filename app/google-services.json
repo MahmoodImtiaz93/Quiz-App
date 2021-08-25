@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074941810548",
+    "project_id": "dailyquiz-4dba8",
+    "storage_bucket": "dailyquiz-4dba8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074941810548:android:f7cbf91ca7b1b11f0b3e21",
+        "android_client_info": {
+          "package_name": "com.mahmood_imtiaz.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074941810548-63o66matp2kobg9hp0iehv1kp2eua4pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqvQIBRVtOB_GlYtWjaJhvtD4uaRD_Gp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074941810548-63o66matp2kobg9hp0iehv1kp2eua4pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
