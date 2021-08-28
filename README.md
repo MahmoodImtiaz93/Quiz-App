@@ -9,6 +9,6 @@
 ![](Images/signup.png)     | ![](Images/home.png)
 
  Give quiz into a          |  Navigation Screen
- particular date         
+ particular date           |
 :-------------------------:|:-------------------------:
 ![](Images/datepicker.png) | ![](Images/navigation.png)
