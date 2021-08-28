@@ -1,2 +1,2 @@
 # Quiz-App
-<img src="Images/intro.png" width ="100">
+<img src="Images/intro.png" width ="500">
