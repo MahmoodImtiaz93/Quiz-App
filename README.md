@@ -8,7 +8,6 @@
 :-------------------------:|:-------------------------:
 ![](Images/signup.png)     | ![](Images/home.png)
 
- Give quiz into a          |  Navigation Screen
- particular date           |
+ Particular Date Quiz      |  Navigation Screen          
 :-------------------------:|:-------------------------:
 ![](Images/datepicker.png) | ![](Images/navigation.png)
