@@ -6,5 +6,5 @@
 
  User Registration         |  Home Screen
 :-------------------------:|:-------------------------:
-![](Images/signup.png)      |  ![](Images/home.png)
+![](Images/signup.png)      | ![](Images/home.png)
 
