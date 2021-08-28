@@ -11,3 +11,12 @@
  Particular Date Quiz      |  Navigation Screen          
 :-------------------------:|:-------------------------:
 ![](Images/datepicker.png) | ![](Images/navigation.png)
+
+ Quiz Activity             |  Quiz Submit          
+:-------------------------:|:-------------------------:
+![](Images/quiz1.png)      | ![](Images/quizSubmit.png)
+
+ Result Activiyt           |  User Logout & Profile         
+:-------------------------:|:-------------------------:
+![](Images/result.png)      | ![](Images/profile.png)
+
