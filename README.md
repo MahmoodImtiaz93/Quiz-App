@@ -6,5 +6,9 @@
 
  User Registration         |  Home Screen
 :-------------------------:|:-------------------------:
-![](Images/signup.png)      | ![](Images/home.png)
+![](Images/signup.png)     | ![](Images/home.png)
 
+ Give quiz into a          |  Navigation Screen
+ particular date         
+:-------------------------:|:-------------------------:
+![](Images/datepicker.png) | ![](Images/navigation.png)
